@@ -46,9 +46,9 @@ let packages =
     "FSharp.Data", "2.0.8"
     "MathNet.Numerics", "3.0.0-beta01"
     "MathNet.Numerics.FSharp", "3.0.0-beta01"
-    "RProvider", "1.0.9"
-    "R.NET", "1.5.5" 
-    "RDotNet.FSharp", "0.1.2.1" ]
+    "RProvider", "1.0.10"
+    "R.NET.Community", "1.5.15" 
+    "R.NET.Community.FSharp", "0.1.8" ]
 
 let journalPackages = 
   [ "FSharp.Compiler.Service", "0.0.44"
