@@ -44,8 +44,8 @@ let packages =
     "Deedle.RPlugin", "1.0.0"
     "FSharp.Charting", "0.90.6"
     "FSharp.Data", "2.0.8"
-    "MathNet.Numerics", "3.0.0-beta01"
-    "MathNet.Numerics.FSharp", "3.0.0-beta01"
+    "MathNet.Numerics", "3.0.0-beta03"
+    "MathNet.Numerics.FSharp", "3.0.0-beta03"
     "RProvider", "1.0.10"
     "R.NET.Community", "1.5.15" 
     "R.NET.Community.FSharp", "0.1.8" ]
