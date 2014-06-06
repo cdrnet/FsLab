@@ -62,7 +62,7 @@ let getAssemblies package =
     | "Deedle.RPlugin" -> ["Deedle.RProvider.Plugin.dll"]
     | "FSharp.Charting" -> ["System.Windows.Forms.DataVisualization.dll"; "FSharp.Charting.dll"]
     | "RProvider" -> ["RDotNet.dll"; "RDotNet.NativeLibrary.dll"; "RProvider.Runtime.dll"; "RProvider.dll"]
-    | "R.NET" -> []
+    | "R.NET.Community" | "R.NET.Community.FSharp" -> []
     | package -> [package + ".dll"]
 
 // Generate #I directive for the following folders:
